@@ -10,7 +10,9 @@ Trying to create a simpler way to explain this...  There is a lot of confusion w
 </svg>
 ```
 
+Might be better to put this in jsFiddle....
 
 ## References
+- https://jsfiddle.net/mgifford/nL3e80xq/1/
 - https://www.sitepoint.com/tips-accessible-svg/
 - https://simplyaccessible.com/article/7-solutions-svgs/
